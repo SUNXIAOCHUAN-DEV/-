@@ -1,0 +1,6 @@
+local msg = Instance.new("Message", workspace)
+msg.Text = "加载器:请您耐心等待加载"
+wait(2)
+msg:Destroy()
+
+local UiLib = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/43404e81d713d532"))()
