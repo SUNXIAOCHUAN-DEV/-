@@ -3,4 +3,4 @@ msg.Text = "加载器:请您耐心等待加载"
 wait(2)
 msg:Destroy()
 
-local UiLib = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/8a7a89b19b4161c2"))()
+local UiLib = loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/0226c1276609cd63"))()
